@@ -7,3 +7,4 @@ its public API, its tests, and the GDD section it implements.
 | --- | --- | --- |
 | Project layout and layer rules | [Architecture.md](Architecture.md) | 12 |
 | Deterministic kernel (clock, commands, random, events) | [Core.md](Core.md) | 0 rule 6, 12.1 |
+| Object pools for objects, effects and sounds | [Pooling.md](Pooling.md) | 0 rule 9, 11 |
