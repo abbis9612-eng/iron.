@@ -1,0 +1,14 @@
+{
+    "name": "IronHorizon.Core.Sim",
+    "rootNamespace": "IronHorizon.Core.Sim",
+    "references": ["Unity.Mathematics", "Unity.Collections", "Unity.Burst"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

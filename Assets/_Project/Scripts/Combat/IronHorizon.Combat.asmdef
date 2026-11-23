@@ -1,0 +1,14 @@
+{
+    "name": "IronHorizon.Combat",
+    "rootNamespace": "IronHorizon.Combat",
+    "references": ["IronHorizon.Core.Sim", "IronHorizon.Core.Infra", "Unity.Mathematics", "Unity.Collections", "Unity.Burst"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

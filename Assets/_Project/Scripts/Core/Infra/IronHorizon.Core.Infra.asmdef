@@ -1,0 +1,14 @@
+{
+    "name": "IronHorizon.Core.Infra",
+    "rootNamespace": "IronHorizon.Core.Infra",
+    "references": ["IronHorizon.Core.Sim", "Unity.Collections"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

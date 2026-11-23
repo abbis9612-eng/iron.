@@ -1,0 +1,24 @@
+{
+    "name": "IronHorizon.Tests.PlayMode",
+    "rootNamespace": "IronHorizon.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "IronHorizon.Core.Sim", "IronHorizon.Core.Infra", "IronHorizon.Combat", "IronHorizon.Movement", "IronHorizon.Economy", "IronHorizon.Vision", "IronHorizon.AI",
+        "IronHorizon.Presentation",
+        "IronHorizon.UI",
+        "IronHorizon.Tools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

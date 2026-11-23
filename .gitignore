@@ -140,3 +140,9 @@ crashlytics-build.properties
 # --- Iron Horizon ---
 # Claude Code local settings (may hold personal permissions or secrets)
 .claude/settings.local.json
+
+# Standalone dotnet test runner for the simulation core (Unity's *.csproj rule above would hide it)
+!/Tests.DotNet/*.csproj
+/Tests.DotNet/bin/
+/Tests.DotNet/obj/
+/Tests.DotNet/TestResults/

@@ -1,0 +1,14 @@
+{
+    "name": "IronHorizon.Presentation",
+    "rootNamespace": "IronHorizon.Presentation",
+    "references": ["IronHorizon.Core.Sim", "IronHorizon.Core.Infra", "IronHorizon.Combat", "IronHorizon.Movement", "IronHorizon.Economy", "IronHorizon.Vision", "IronHorizon.AI", "Unity.Mathematics", "Unity.Collections", "Unity.Burst"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

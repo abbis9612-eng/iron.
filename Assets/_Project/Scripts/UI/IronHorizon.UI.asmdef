@@ -1,0 +1,14 @@
+{
+    "name": "IronHorizon.UI",
+    "rootNamespace": "IronHorizon.UI",
+    "references": ["IronHorizon.Core.Sim", "IronHorizon.Core.Infra", "IronHorizon.Combat", "IronHorizon.Movement", "IronHorizon.Economy", "IronHorizon.Vision", "IronHorizon.AI", "IronHorizon.Presentation"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
