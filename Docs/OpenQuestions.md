@@ -9,3 +9,4 @@ Each line: date, where it came from, the question, the temporary value used.
 | 2026-11-23 | T1 | GDD section 13 links the art direction file as "Doc". Should it point to `Docs/ArtDirection.md`? | Unchanged until the owner edits the GDD |
 | 2026-11-23 | T1 | BuildGuide says "v3 is the law"; the current GDD is v4.1. | Treat v4.1 as the law |
 | 2026-11-23 | T2 | Confirm `com.unity.mathematics`, `com.unity.collections`, `com.unity.burst` are in the Universal 3D template manifest on Unity 6.6; add them if missing. | Must be checked on the dev machine |
+| 2026-11-23 | T3 | SimCommand carries six integers. How should a move order for a large selection be encoded (unit list payload vs. "select group" command)? | Six fixed integer arguments; decide before phase 1 |

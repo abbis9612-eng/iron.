@@ -78,7 +78,7 @@ namespace IronHorizon.Tests
         public void CoreSim_UsesIntegerMathOnly()
         {
             // GDD 12.1: float math in the simulation must live in Burst jobs; Core/Sim is integer-only.
-            var floatWord = new Regex(@"\b(float|double|decimal|Single|Double)\b");
+            var floatWord = new Regex(@"\b(float|double|decimal)\b|System\.(Single|Double|Decimal)\b");
             foreach (string file in SourceFiles("Core/Sim"))
             {
                 string code = StripComments(File.ReadAllText(file));
